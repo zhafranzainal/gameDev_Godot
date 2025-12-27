@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnpsbaws0wdcf"
-path="res://.godot/imported/Helicopter.png-b9988d091973c4cc95a4da7fa96f5058.ctex"
+uid="uid://dmmtn3o0ix0tv"
+path="res://.godot/imported/Helicopter.png-bb952a88c357d89da1de7607690fd905.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Helicopter.png"
-dest_files=["res://.godot/imported/Helicopter.png-b9988d091973c4cc95a4da7fa96f5058.ctex"]
+source_file="res://assets/Helicopter.png"
+dest_files=["res://.godot/imported/Helicopter.png-bb952a88c357d89da1de7607690fd905.ctex"]
 
 [params]
 
