@@ -1,3 +1,8 @@
-[gd_scene format=3 uid="uid://dme6rb7r3k85k"]
+[gd_scene load_steps=2 format=3 uid="uid://dme6rb7r3k85k"]
+
+[ext_resource type="Texture2D" uid="uid://nfblawmo2ex" path="res://assets/Plane.png" id="1_pde3v"]
 
 [node name="Ocean" type="Node"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_pde3v")
