@@ -1,8 +1,13 @@
-[gd_scene load_steps=2 format=3 uid="uid://dme6rb7r3k85k"]
+[gd_scene load_steps=3 format=3 uid="uid://dme6rb7r3k85k"]
 
 [ext_resource type="Texture2D" uid="uid://nfblawmo2ex" path="res://assets/Plane.png" id="1_pde3v"]
+[ext_resource type="Texture2D" uid="uid://dmmtn3o0ix0tv" path="res://assets/Helicopter.png" id="2_prgdk"]
 
 [node name="Ocean" type="Node"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_pde3v")
+
+[node name="Helicopter" type="Sprite2D" parent="."]
+position = Vector2(389, 95)
+texture = ExtResource("2_prgdk")
